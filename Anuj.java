@@ -4,4 +4,9 @@ Public class Hello
   {
     System.out.println("Hello Anuj");
    }
+   
+  public static m1()
+{
+   System.out.println("M1 Method")
+}
 }
